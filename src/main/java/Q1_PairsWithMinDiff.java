@@ -9,7 +9,7 @@ import java.util.List;
  *Total Questions:1
  *https://leetcode.com/problems/minimum-absolute-difference/submissions/
  */
-public class PairsWithMinDiff {
+public class Q1_PairsWithMinDiff {
 
     public static void main(String[] args) {
 
